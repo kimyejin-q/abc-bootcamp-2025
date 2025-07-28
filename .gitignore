@@ -1,0 +1,4 @@
+#모든 파일은 다 무시해라
+.env*
+__pycache__
+.DS_Store
